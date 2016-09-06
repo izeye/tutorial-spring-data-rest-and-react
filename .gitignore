@@ -1,0 +1,11 @@
+# Created by .gitignore support plugin (hsz.mobi)
+
+.idea/
+tutorial-spring-data-rest-and-react.iml
+
+.gradle/
+build/
+
+node_modules/
+
+src/main/resources/public/js/bundle.js
